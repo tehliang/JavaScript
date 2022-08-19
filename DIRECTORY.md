@@ -164,6 +164,7 @@
   * [FindMaxRecursion](Maths/FindMaxRecursion.js)
   * [FindMin](Maths/FindMin.js)
   * [FindMinIterator](Maths/FindMinIterator.js)
+  * [FindTrianglePerimeter](Maths/FindTrianglePerimeter.js)
   * [GetEuclidGCD](Maths/GetEuclidGCD.js)
   * [GridGet](Maths/GridGet.js)
   * [IsDivisible](Maths/IsDivisible.js)
