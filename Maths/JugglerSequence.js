@@ -22,4 +22,3 @@ function jugglerSequence (n) {
 }
 
 export { jugglerSequence }
-
