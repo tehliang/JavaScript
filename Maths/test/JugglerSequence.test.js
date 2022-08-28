@@ -15,7 +15,7 @@ describe('Testing jugglerSequence function', () => {
 
   it('should return [15, 58, 7, 18, 4, 2, 1] if the number is 15', () => {
     expect(jugglerSequence(15)).toEqual(
-      expect.arrayContaining([15, 58, 7, 18, 4, 2, 0])
+      expect.arrayContaining([15, 58, 7, 18, 4, 2, 1])
     )
   })
 })
