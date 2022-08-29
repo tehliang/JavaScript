@@ -8,14 +8,13 @@
  *
  * @return An array of steps and the final result..
  *
- * @see [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
+ * @see (Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture)
  *
  * @example collatz(1) = { result: 1, steps: [] }
  * @example collatz(5) = { result: 1, steps: [16, 8, 4, 2, 1] }
 */
 export function collatz (n) {
   const steps = []
-
   while (n !== 1) {
     if (n % 2 === 0) {
       n = n / 2
