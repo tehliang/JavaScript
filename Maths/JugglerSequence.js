@@ -18,7 +18,7 @@ function jugglerSequence (n) {
     n = Math.floor(n ** ((n % 2) + 0.5))
     sequence.push(n)
   }
-  return sequence
+  retur sequence
 }
 
 export { jugglerSequence }
